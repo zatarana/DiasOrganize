@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">LifeFlow Pro</string>
+
+    <string name="nav_home">Início</string>
+    <string name="nav_tasks">Tarefas</string>
+    <string name="nav_finance">Finanças</string>
+    <string name="nav_debts">Dívidas</string>
+    <string name="nav_more">Mais</string>
+
+    <string name="screen_home">Início</string>
+    <string name="screen_tasks">Tarefas</string>
+    <string name="screen_finance">Finanças</string>
+    <string name="screen_debts">Dívidas</string>
+    <string name="screen_more">Mais</string>
+    <string name="screen_goals">Metas</string>
+    <string name="screen_calendar">Calendário</string>
+    <string name="screen_reports">Relatórios</string>
+    <string name="screen_backup">Backup e restauração</string>
+    <string name="screen_appearance">Aparência</string>
+    <string name="screen_manage_accounts">Gerenciar contas</string>
+    <string name="screen_manage_categories">Gerenciar categorias</string>
+    <string name="screen_badges">Conquistas e badges</string>
+
+    <string name="action_back">Voltar</string>
+    <string name="action_next">Próximo</string>
+    <string name="action_start">Começar</string>
+
+    <string name="onboarding_title_1">Bem-vindo ao seu centro pessoal</string>
+    <string name="onboarding_body_1">O LifeFlow Pro reúne tarefas, finanças e dívidas em um único app offline-first, pensado para uso diário e rápido.</string>
+    <string name="onboarding_title_2">Saldo real e saldo previsto</string>
+    <string name="onboarding_body_2">O módulo financeiro separa o que já entrou ou saiu de fato do que ainda está pendente, para você enxergar a situação atual e o que vem pela frente.</string>
+    <string name="onboarding_title_3">Dívidas sem culpa, com clareza</string>
+    <string name="onboarding_body_3">O módulo de dívidas começa como registro passivo. Você acompanha, negocia ou quita quando fizer sentido, sem bagunçar seu saldo antes da hora.</string>
+    <string name="onboarding_step_indicator">Etapa %1$d de %2$d</string>
+
+    <string name="phase3_shell_ready_title">Shell do app pronto</string>
+    <string name="phase3_dashboard_body">A Fase 3 entrega a estrutura navegável do LifeFlow Pro com abas principais, onboarding inicial e rotas secundárias prontas para receber as próximas funcionalidades.</string>
+    <string name="phase3_tasks_body">Tela base de Tarefas preparada para a próxima fase, onde entrarão filtros, lista, swipe actions, bottom sheet e recorrência.</string>
+    <string name="phase3_finance_body">Tela base de Finanças preparada para receber transações, contas, orçamentos, metas e confirmações de pagamento nas próximas fases.</string>
+    <string name="phase3_debts_body">Tela base de Dívidas preparada para evoluir com abas, cadastro passivo, negociação e quitação guiada.</string>
+    <string name="phase3_more_title">Central de telas auxiliares</string>
+    <string name="phase3_more_body">Aba Mais com acesso às telas secundárias pedidas no roadmap da Fase 3.</string>
+
+    <string name="phase3_goals_body">Tela vazia estruturada para o módulo de metas de economia.</string>
+    <string name="phase3_calendar_body">Tela vazia estruturada para o calendário integrado.</string>
+    <string name="phase3_reports_body">Tela vazia estruturada para relatórios e visualizações.</string>
+    <string name="phase3_backup_body">Tela vazia estruturada para exportação e restauração de backup.</string>
+    <string name="phase3_appearance_body">Tela vazia estruturada para modo claro, escuro e preferências visuais.</string>
+    <string name="phase3_accounts_body">Tela vazia estruturada para CRUD de contas e carteiras.</string>
+    <string name="phase3_categories_body">Tela vazia estruturada para CRUD de categorias.</string>
+    <string name="phase3_badges_body">Tela vazia estruturada para conquistas, badges e progressão.</string>
+
+    <string name="more_goals_subtitle">Acompanhe objetivos financeiros e progresso.</string>
+    <string name="more_calendar_subtitle">Veja eventos do mês em uma visão unificada.</string>
+    <string name="more_reports_subtitle">Abra relatórios e análises do app.</string>
+    <string name="more_backup_subtitle">Exporte e restaure seus dados locais.</string>
+    <string name="more_appearance_subtitle">Ajuste tema, cores e preferências visuais.</string>
+    <string name="more_accounts_subtitle">Cadastre e organize suas contas.</string>
+    <string name="more_categories_subtitle">Gerencie categorias de tarefas e finanças.</string>
+    <string name="more_badges_subtitle">Veja suas conquistas e badges desbloqueadas.</string>
+
+    <string name="notification_channel_tasks">Tarefas</string>
+    <string name="task_notification_title">Lembrete de tarefa</string>
+    <string name="task_notification_body">Toque para revisar a tarefa #%1$d.</string>
+
+    <string name="screen_finance_phase5_title">Módulo financeiro</string>
+    <string name="screen_goals_phase5_title">Metas de economia</string>
+    <string name="screen_accounts_phase5_title">Contas e carteiras</string>
+
+
+    <string name="screen_search">Pesquisa</string>
+    <string name="dashboard_search_cd">Pesquisar</string>
+    <string name="dashboard_balance_title">Resumo financeiro</string>
+    <string name="dashboard_real_balance">Saldo real: %1$s</string>
+    <string name="dashboard_forecast_balance">Saldo previsto: %1$s</string>
+    <string name="dashboard_health_title">Nível de saúde financeira</string>
+    <string name="dashboard_health_score">Pontuação: %1$d pts</string>
+    <string name="dashboard_next_level">Próximo nível: %1$s</string>
+    <string name="dashboard_budgets_title">Orçamentos do mês</string>
+    <string name="dashboard_budgets_empty">Nenhum orçamento configurado para este mês.</string>
+    <string name="dashboard_budget_generic">Categoria</string>
+    <string name="dashboard_budget_spent">Gasto atual: %1$s</string>
+    <string name="dashboard_goals_title">Metas ativas</string>
+    <string name="dashboard_goals_empty">Nenhuma meta ativa no momento.</string>
+    <string name="dashboard_goal_progress">%1$s de %2$s</string>
+    <string name="dashboard_tasks_title">Próximas tarefas</string>
+    <string name="dashboard_tasks_empty">Nenhuma tarefa pendente nas próximas datas.</string>
+    <string name="dashboard_due_title">Próximos vencimentos</string>
+    <string name="dashboard_due_empty">Nenhum vencimento próximo encontrado.</string>
+    <string name="dashboard_open_debts_action">Ver dívidas</string>
+    <string name="dashboard_streak_label">🔥 Streak atual: %1$d dias</string>
+    <string name="action_view_all">Ver todos</string>
+    <string name="search_field_label">Buscar em tarefas, finanças e dívidas</string>
+    <string name="search_hint">Digite para pesquisar em tempo real.</string>
+    <string name="search_empty">Nenhum resultado encontrado.</string>
+    <string name="search_group_tasks">Tarefas</string>
+    <string name="search_group_finance">Finanças</string>
+    <string name="search_group_debts">Dívidas</string>
+    <string name="calendar_prev_month">Mês anterior</string>
+    <string name="calendar_next_month">Próximo mês</string>
+    <string name="calendar_events_for_day">Eventos de %1$s</string>
+    <string name="calendar_empty_day">Nenhum evento para este dia.</string>
+
+
+    <string name="reports_empty">Sem dados suficientes neste período.</string>
+    <string name="reports_total_received">Total recebido</string>
+    <string name="reports_total_paid">Total pago</string>
+    <string name="reports_final_balance">Saldo final</string>
+    <string name="reports_economy_generated">Economia gerada</string>
+    <string name="reports_comparison_title">Comparativo com o mês anterior</string>
+    <string name="reports_expense_chart_title">Despesas por categoria</string>
+    <string name="reports_weekly_chart_title">Receitas vs despesas por semana</string>
+    <string name="reports_balance_chart_title">Saldo real vs previsto</string>
+    <string name="reports_budgets_title">Relatório de orçamentos</string>
+    <string name="reports_tasks_title">Relatório de tarefas</string>
+    <string name="reports_real_balance_line">Linha azul = saldo real</string>
+    <string name="reports_forecast_balance_line">Linha roxa = saldo previsto</string>
+    <string name="reports_task_completion">Conclusão do mês: %1$d de %2$d tarefas</string>
+    <string name="reports_tasks_by_priority">Distribuição por prioridade</string>
+    <string name="reports_tasks_by_category">Distribuição por categoria</string>
+    <string name="reports_streak_history">Histórico de conclusões por dia</string>
+    <string name="badge_locked">Badge bloqueado</string>
+    <string name="badge_unlocked_on">Desbloqueado em: %1$s</string>
+    <string name="budget_status_ok">Dentro do limite</string>
+    <string name="budget_status_warning">Perto do limite</string>
+    <string name="budget_status_exceeded">Orçamento ultrapassado</string>
+
+</resources>

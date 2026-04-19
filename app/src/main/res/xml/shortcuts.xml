@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="new_transaction"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="Nova transação"
+        android:shortcutLongLabel="Criar nova transação">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.lifeflow.pro.MainActivity"
+            android:targetPackage="com.lifeflow.pro" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="new_task"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="Nova tarefa"
+        android:shortcutLongLabel="Criar nova tarefa">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.lifeflow.pro.MainActivity"
+            android:targetPackage="com.lifeflow.pro" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="register_debt"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="Registrar dívida"
+        android:shortcutLongLabel="Registrar nova dívida">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.lifeflow.pro.MainActivity"
+            android:targetPackage="com.lifeflow.pro" />
+    </shortcut>
+</shortcuts>
